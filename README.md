@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about technology, open source, and 
 - 🎓 B.Tech in Computer Science (Specialization: Cyber Security)  
 - 📚 Currently pursuing **PG-DAC at CDAC**  
 - 👩‍💻 Exploring **Java, Spring Boot, MERN Stack, and Cyber Security Concepts**  
-- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/vaishnavi-k-290b1238a)  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vaishnavi-k-290b1238a)  
 - ⚡ Fun fact: 🎵 I enjoy listening to music while coding  
 - ✨ My coding mantra: *“Break problems into smaller chunks.”*  
 
@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm passionate about technology, open source, and 
 ## 📫 Connect With Me  
 
 <p>
-  <a href="www.linkedin.com/in/vaishnavi-k-290b1238a">
+  <a href="https://www.linkedin.com/in/vaishnavi-k-290b1238a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
