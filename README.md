@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm passionate about technology, open source, and 
 ## 📫 Connect With Me  
 
 <p>
-  <a href="https://www.linkedin.com/in/k-vaishnavi-a9860327a">
+  <a href="www.linkedin.com/in/vaishnavi-k-290b1238a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
